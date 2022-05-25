@@ -1,5 +1,9 @@
 # lab3-git
 
-Syafiq Idros
 
+Syafiq Idros
 I expect to learn more on version control, ROS and Python.
+xinyi
+i hope i can absorb as many things from this course as i can
+My name is ElsonTanJunHao, I am still learning how to use github hehehe. The information provided are useful
+My name is Qi En and i expect to learn beneficial skills that will aid me in my future job
